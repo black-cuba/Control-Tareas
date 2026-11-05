@@ -1,0 +1,6 @@
+{
+  "summary": "Plan de viabilidad técnica y arquitectura para Control-Tareas (Android nativo Kotlin/Compose + simulador interactivo en AI Studio Build). Evalúa limitaciones del entorno, dependencias de SQLCipher/Keystore, migración por QR secuenciales comprimidos, respaldos cifrados con SAF y notificaciones locales.",
+  "updatedAt": "2026-11-05T05:14:26.011825485Z",
+  "requestFeedback": true,
+  "userFacing": true
+}

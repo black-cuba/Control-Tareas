@@ -1,0 +1,6 @@
+{
+  "name": "Control-Tareas",
+  "description": "Aplicación de control y gestión de tareas con cifrado, respaldo, migración QR y notificaciones.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
